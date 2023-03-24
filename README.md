@@ -11,8 +11,6 @@ Breathing exercise to help to relax
 * "I have anxiety"
 * "I am overwhelmed"
 * "I cant take it anymore"
-* "Im going to kill myself"
-* "I want to die"
 * "It is too much for me"
 
 ## Credits
